@@ -1,0 +1,28 @@
+{
+  "name": "tree-sitter-taskpaper",
+  "version": "1.0.0",
+  "description": "a tree-sitter grammar for taskpaper ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryall/tree-sitter-taskpaper.git"
+  },
+  "keywords": [
+    "tree-sitter"
+  ],
+  "author": "Brian Ryall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryall/tree-sitter-taskpaper/issues"
+  },
+  "homepage": "https://github.com/bryall/tree-sitter-taskpaper#readme",
+  "dependencies": {
+    "nan": "^2.14.2"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.17.3"
+  }
+}

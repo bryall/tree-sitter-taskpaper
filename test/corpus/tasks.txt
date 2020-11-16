@@ -1,0 +1,8 @@
+==================
+Basic Task
+==================
+- Milk
+---
+(taskpaperDocument
+    (task
+        (text)))
